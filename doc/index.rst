@@ -1,11 +1,11 @@
-Welcome to NMC-M! documentation!
+Welcome to Neuroimaging Module 1 documentation!
 ===================================
 
-.. include:: ../README.md
+.. include:: ../README.rst
 
 .. toctree::
    :maxdepth: 1
-   :caption: About NMC-M1
+   :caption: About Module 1
    :glob:
       
    about/overview
