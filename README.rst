@@ -1,18 +1,18 @@
-NMC-M1 - NEUROIMAGING Neurotech microcredentials module 1
+NEUROIMAGING Neurotech microcredentials module 1
 =================
-(`Here is a link <https://en.wikipedia.org/wiki/The_Hobbit>`_)
+`Neurotech micro-crendtial program <https://neurotechmicrocreds.com/>`_
 
 
 Summary
 -------
 
-``nmc-m1`` is a blah thing for blah.
+``neuroimaging_m1`` is the first module of the Neuroimaging Micro-credential, and provides a broad crash course on all sorts of neuroimaging technologies. This repo exists to help facilitate the interactive activities and assignments, and offers links to additional external resources not mentioned in the main course slides.
 
+Activities
+----------
+If you are here for an interactive acitivty, please click on the corresponding activity from the list below. Note that the options are ordered according to their positions in the course materials.
 
-Rationale
----------
-
-Here is an interesting rationale 
+* `Comparing CT and MR images <https://github.com/neurotech-course/neuroimaging_m1/README.rst>`_
 
 
 Structure
